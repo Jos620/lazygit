@@ -1,0 +1,30 @@
+gui:
+  border: 'rounded'
+  showRandomTip: false
+  showBottomLine: false
+  showListFooter: false
+  theme:
+    lightTheme: false
+    activeBorderColor:
+      - "#4d9375"
+      - bold
+    searchingActiveBorderColor:
+      - "#4d9375"
+      - bold
+    inactiveBorderColor:
+      - "#c8c5b8"
+    optionsTextColor:
+      - "#d4976c"
+    selectedLineBgColor:
+      - "#292929"
+    selectedRangebgColor:
+      - "#292929"
+    cherryPickedCommitBgColor:
+      - "#5eaab5"
+    cherryPickedCommitBorderColor:
+      - "#6394bf"
+    unstagedChangesColor:
+      - "#e6cc77"
+    defaultFgColor:
+      - "#c8c5b8"
+    expandFocusedSidePanel: true
