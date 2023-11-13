@@ -3,6 +3,7 @@ gui:
   showRandomTip: false
   showBottomLine: false
   showListFooter: false
+  expandFocusedSidePanel: true
   theme:
     lightTheme: false
     activeBorderColor:
@@ -27,4 +28,3 @@ gui:
       - "#e6cc77"
     defaultFgColor:
       - "#c8c5b8"
-    expandFocusedSidePanel: true
