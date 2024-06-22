@@ -5,6 +5,7 @@ gui:
   showBottomLine: false
   showListFooter: false
   expandFocusedSidePanel: true
+  skipRewordInEditorWarning: true
   theme:
     lightTheme: false
     activeBorderColor:
@@ -29,3 +30,5 @@ gui:
       - "#e6cc77"
     defaultFgColor:
       - "#c8c5b8"
+os:
+  editPreset: 'nvim'
