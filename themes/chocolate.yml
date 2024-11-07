@@ -1,11 +1,3 @@
-promptToReturnFromSubprocess: false
-gui:
-  border: 'rounded'
-  showRandomTip: false
-  showBottomLine: false
-  showListFooter: false
-  expandFocusedSidePanel: true
-  skipRewordInEditorWarning: true
   theme:
     lightTheme: false
     activeBorderColor:
@@ -30,5 +22,27 @@ gui:
       - "#d9b27c"
     defaultFgColor:
       - "#f8f8f2"
-os:
-  editPreset: 'nvim'
+heme:
+  lightTheme: false
+  activeBorderColor:
+    - "#677a66"
+    - bold
+  searchingActiveBorderColor:
+    - "#677a66"
+    - bold
+  inactiveBorderColor:
+    - "#565453"
+  optionsTextColor:
+    - "#d9b27c"
+  selectedLineBgColor:
+    - "#292929"
+  selectedRangebgColor:
+    - "#292929"
+  cherryPickedCommitBgColor:
+    - "#728697"
+  cherryPickedCommitBorderColor:
+    - "#728697"
+  unstagedChangesColor:
+    - "#d9b27c"
+  defaultFgColor:
+    - "#f8f8f2"
