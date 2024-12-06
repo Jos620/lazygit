@@ -1,12 +1,3 @@
-promptToReturnFromSubprocess: false
-gui:
-  border: 'rounded'
-  showRandomTip: false
-  showBottomLine: false
-  showListFooter: false
-  expandFocusedSidePanel: true
-  skipRewordInEditorWarning: true
-
   theme:
     lightTheme: false
     activeBorderColor:
@@ -31,6 +22,3 @@ gui:
       - "#C6A679"
     defaultFgColor:
       - "#F0F0F0"
-
-os:
-  editPreset: 'nvim'
